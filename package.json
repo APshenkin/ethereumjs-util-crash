@@ -1,0 +1,10 @@
+{
+  "name": "ethereumjs-util-crash",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ethereumjs-util": "6.2.1"
+  }
+}
